@@ -1,0 +1,22 @@
+body{
+  background-image:url(texture.jpeg);
+  color:white;
+  font-family: Verdana;
+}
+.kotak{
+  background-color: red;
+  padding:5px;
+}
+button{
+  margin-left:250px;
+}
+.footer{
+  background-color:red;
+  padding:5px;
+  font-size:25px;
+}
+a{
+  text-decoration:none;
+  color:white;
+  font-size:13px;
+}

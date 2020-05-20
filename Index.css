@@ -1,0 +1,31 @@
+body{
+  background-image:url(texture.jpeg);
+  font-family:Verdana;
+  color:white;
+}
+.footer{
+  background-color:red;
+  padding:5px;
+  font-size:25px;
+}
+.footer2{
+  text-align: top-right;
+}
+a{
+  text-decoration:none;
+  color:white;
+  font-size:13px;
+}
+.isi{
+  font-size:20px;
+}
+.belajar_html{
+  
+}
+.gambar{
+  width: 300px;
+}
+.ntah{
+  font-size:20px;
+  margin: 75px;
+}
